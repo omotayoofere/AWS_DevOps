@@ -1,0 +1,8 @@
+ansible/
+Jenkinsfile
+vagrant/Automated_provisioning/
+vagrant/Automated_provisioning_MacOSM1/
+vagrant/Manual_provisioning_MacOSM1/
+vagrant/Manual_provisioning/VprofileProjectSetup.pdf
+vagrant/Manual_provisioning/ubuntu-bionic-18.04-cloudimg-console.log
+
